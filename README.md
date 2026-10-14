@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 # NLP Azure Practice
@@ -360,7 +359,6 @@ Several scripts handle multiple documents. Inspect each result's is_error value 
 - How a Q&A project returns answers and follow-up prompts.
 - How previous-question context and feedback can be used in an authoring workflow.
 - Why API keys should be kept outside source code and Git history.
-<<<<<<< HEAD
 
 ## 🔒 Security notes
 
