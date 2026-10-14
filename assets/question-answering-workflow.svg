@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300">
+<rect width="100%" height="100%" rx="18" fill="#0f172a"/>
+<text x="560.0" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#f8fafc">Question Answering Workflow</text>
+<rect x="25" y="100" width="220" height="132" rx="16" fill="#2563eb"/>
+<text x="41" y="129" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Ask a question</text>
+<text x="41" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#ffffff">User submits a</text>
+<text x="41" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#ffffff">question</text>
+<line x1="253" y1="166" x2="295" y2="166" stroke="#cbd5e1" stroke-width="2.5"/>
+<polygon points="295,160 295,172 306,166" fill="#cbd5e1"/>
+<rect x="305" y="100" width="220" height="132" rx="16" fill="#0f766e"/>
+<text x="321" y="129" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Azure QnA</text>
+<text x="321" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#ffffff">Search configured</text>
+<text x="321" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#ffffff">knowledge base</text>
+<line x1="533" y1="166" x2="575" y2="166" stroke="#cbd5e1" stroke-width="2.5"/>
+<polygon points="575,160 575,172 586,166" fill="#cbd5e1"/>
+<rect x="585" y="100" width="220" height="132" rx="16" fill="#7c3aed"/>
+<text x="601" y="129" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Follow-up context</text>
+<text x="601" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#ffffff">Keep previous Q&amp;A</text>
+<text x="601" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#ffffff">for multi-turn chats</text>
+<line x1="813" y1="166" x2="855" y2="166" stroke="#cbd5e1" stroke-width="2.5"/>
+<polygon points="855,160 855,172 866,166" fill="#cbd5e1"/>
+<rect x="865" y="100" width="220" height="132" rx="16" fill="#b45309"/>
+<text x="881" y="129" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Answer</text>
+<text x="881" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#ffffff">Show best answer</text>
+<text x="881" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#ffffff">and confidence score</text>
+<text x="560" y="270" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#94a3b8">NLP Azure Practice • workflow overview</text>
+</svg>
