@@ -387,22 +387,15 @@ Several scripts handle multiple documents. Inspect each result's is_error value 
 - Add screenshots of sample terminal outputs, using synthetic text and no secrets.
 <<<<<<< HEAD
 
-## 📄 License
+## License
 
-No license is specified in the provided project files. Add a license if you want to define how others may reuse this code.
+No license is specified for this project. Please contact the repository owner if you have questions about using or reusing this code.
 
 ---
 
-<div align="center">
-
-**A practical learning repository for Azure AI Language and Python.**
+*A practical learning repository for Azure AI Language and Python.*
 
 [Back to top](#nlp-azure-practice)
-
-=======
-📄 License
-No license is specified in the provided project files. Add a license if you want to define how others may reuse this code.
-<div align="center">
 
 A practical learning repository for Azure AI Language and Python.
 Back to top
