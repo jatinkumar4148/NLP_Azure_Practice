@@ -351,7 +351,7 @@ Several scripts handle multiple documents. Inspect each result's is_error value 
 </details>
 
 📚 What we learned
->>>>>>> a670d0c731130ac48f02ab1cd2449e0115774db4
+
 - How Python scripts authenticate to Azure AI Language.
 - How to send sample text and lists of documents to language APIs.
 - How to read sentiment labels, confidence scores, key phrases, and entity metadata.
