@@ -396,5 +396,4 @@ No license is specified for this project. Please contact the repository owner if
 *A practical learning repository for Azure AI Language and Python.*
 
 [Back to top](#nlp-azure-practice)
->>>>>>> a670d0c731130ac48f02ab1cd2449e0115774db4
 </div>
