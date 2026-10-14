@@ -370,22 +370,24 @@ Several scripts handle multiple documents. Inspect each result's is_error value 
 - Use a development Q&A project when testing scripts that modify questions.
 
 ## 🧭 Suggested next steps
-
 - Add a `requirements.txt` with tested versions.
-=======
-🔒 Security notes
-- Keep .env out of Git and never include Azure keys in source files.
+
+## 🔒 Security Notes
+
+- Keep `.env` out of Git and never include Azure keys in source files.
 - If a key was ever committed, rotate it if it is still valid and remove secret-containing commits from the branch before pushing.
 - Do not bypass GitHub secret scanning to publish a credential.
 - Use a development Q&A project when testing scripts that modify questions.
-🧭 Suggested next steps
-- Add a requirements.txt with tested versions.
->>>>>>> a670d0c731130ac48f02ab1cd2449e0115774db4
+
+## 🧭 Suggested Next Steps
+
+- Add a `requirements.txt` with tested versions.
 - Standardize credential loading across all scripts.
 - Add sample expected outputs and tests.
 - Group examples into folders by feature.
 - Add screenshots of sample terminal outputs, using synthetic text and no secrets.
-<<<<<<< HEAD
+
+---
 
 ## License
 
@@ -396,8 +398,5 @@ No license is specified for this project. Please contact the repository owner if
 *A practical learning repository for Azure AI Language and Python.*
 
 [Back to top](#nlp-azure-practice)
-
-A practical learning repository for Azure AI Language and Python.
-Back to top
 >>>>>>> a670d0c731130ac48f02ab1cd2449e0115774db4
 </div>
